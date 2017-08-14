@@ -13,3 +13,7 @@ ordenadores, basado en un diseño suyo, y termina con su incorporación a la Uni
 Manchester. Es en esta universidad donde Turing explora por vez primera el tratamiento con
 ordenador de algunos problemas en biología relacionados con el crecimiento y la forma de los seres
 vivos, dando así paso a una nueva disciplina, la biología matemática. 
+
+Ramos Orozco Daniel
+Charles Babbage: Nació en Totnes, Inglaterra, en 1791, hijo deun rico banquero. Ya de niño se interesó por los artefactos mecánicos y aprendió matemáticas de forma autodidacta.
+En 181O entró a la Universidad de Cambridge, donde en ese tiempo, la enseñanza de las matemáticas consistía principalmente en el estudio de los trabajos del científico inglés Isaac Newton, relegando las investigacionesmás recientes de Euler, Lacroix y otros matemáticos europeos.
